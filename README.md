@@ -65,6 +65,11 @@ if result.is_detected:
     print(result.category, result.score)
 ```
 
+## Use Cases and Explainer
+
+- [Example use cases](docs/use-cases.md): chatbot input guardrails, AI security logging, and red-team regression tests.
+- [60-second explainer script](docs/explainer-script.md): a ready-to-record script, shot list, and LinkedIn caption.
+
 ## Detection Categories
 
 - **Injection:** instruction override or replacement attempts.
